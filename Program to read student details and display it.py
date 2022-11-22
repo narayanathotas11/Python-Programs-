@@ -1,0 +1,12 @@
+#Program to read student details and display it
+s=input('enter no: ')
+n=input('enter name: ')
+g=input('enter gender: ')
+gr=input('enter group: ')
+a=input('enter address: ')
+print('details of the student are: ')
+print(s)
+print(n)
+print(g)
+print(gr)
+print(a)
